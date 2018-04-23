@@ -1,0 +1,14 @@
+{
+    "name": "chrisye909/hello-composer",
+    "description": "Just say hello.",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chrisye909",
+            "email": "yjx909@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
